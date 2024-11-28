@@ -341,6 +341,7 @@ body {
 }
 
 
+/* Year Section Styling */
 .year-section {
     margin: 30px 0;
     padding: 20px;
@@ -355,7 +356,7 @@ body {
     margin-bottom: 10px;
 }
 
-
+/* Branch Grid Styling */
 .branch-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -389,129 +390,86 @@ body {
     color: var(--text-secondary);
 }
 
-
+/* Responsive Design */
 @media (max-width: 768px) {
     .branch-grid {
         grid-template-columns: 1fr;
     }
 }
-
-.buttons {
+.buttons
+{
     background-color: #00897B;
     border-radius: 1rem;
     height: 2.5rem;
     width: 7.5rem;
-    border: none;
-    color: white;
+border: none;
+color: white;
 }
-
-button:hover {
-    background-color: #00796B;
-}
-
-.subjects-container,
-#options-container {
-    margin-top: 20px;
-}
-
-.option-btn {
-    background-color: #4CAF50;
-    padding: 12px;
-    color: white;
-    border-radius: 5px;
-}
-
-.option-btn:hover {
-    background-color: #45a049;
-}
-
-/* styling for aiml branch */
-/* General Card Styling for all branches */
-.branch-card {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 12px;
-    margin-bottom: 16px;
-    background-color: #f9f9f9;
-}
-
-.section-content h2 {
-    text-align: center;
-    font-size: 2.25rem;
-    margin-bottom: 1rem;
-}
-
-.buttons {
+/* .buttons2
+{
     background-color: #00897B;
-    border-radius: 2rem;
+    border-radius: 1rem;
     height: 2.5rem;
     width: 7.5rem;
-    border: none;
-    color: white;
-    padding: 10px;
-    margin-top: 10px;
-    border: none;
-    cursor: pointer;
-    font-size: 16px;
-    text-align: center;
+border:none;
+margin: 0.5rem;
+color: white;
+}
+.buttons3
+{
+    background-color: #00897B;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 7.5rem;
+border: none;
+color: white;
+}
+.buttons4
+{
+    background-color: #00897B;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 7.5rem;
+border:none;
+margin: 0.5rem;
+color: white;
+}
+.buttons5
+{
+    background-color: #00897B;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 7.5rem;
+border: none;
+color: white;
+}
+.buttons6
+{
+    background-color: #00897B;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 7.5rem;
+border:none;
+margin: 0.5rem;
+color: white;
 }
 
-button:hover {
-    background-color: #00796B;
+.buttons7
+{
+    background-color: #00897B;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 7.5rem;
+border: none;
+color: white;
 }
-
-/* Subjects Container (Hidden by Default) */
-.subjects-container {
-    margin-top: 10px;
-    display: none;
-}
-
-.subject-btn {
-    padding: 8px;
-    margin-bottom: 8px;
-    border: none;
-    background-color: #00796B;
-    color: white;
-    border-radius: 2rem;
-    width: 125px;
-    height: 42px;
-    cursor: pointer;
-    text-align: center;
-}
-
-.subject-options-container {
-    margin-top: 20px;
-    padding: 12px;
-    border-radius: 4px;
-    background-color: #ffffff;
-    display: block;
-}
-
-.subject-options-container h4 {
-    margin-bottom: 10px;
-    font-size: 18px;
-    text-align: center;
-    font-size: 2.25rem;
-    margin-bottom: 1rem;
-}
-
-.subject-options-container button {
-    padding: 8px 16px;
-    margin: 8px 4px;
-    border: none;
-    border-radius: 4px;
-    background-color: #28a745;
-    color: white;
-    cursor: pointer;
-    font-size: 14px;
-    background-color: #4CAF50;
-    padding: 12px;
-    color: white;
-    border-radius: 5px;
-    padding: 12px;
-    border: 1px solid black;
-}
-
-.subject-options-container button:hover {
-    background-color: #218838;
-}
+.buttons8
+{
+    background-color: #00897B;
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 7.5rem;
+border:none;
+margin: 0.5rem;
+color: white;
+} */
