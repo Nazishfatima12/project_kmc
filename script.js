@@ -95,13 +95,13 @@ document.addEventListener("DOMContentLoaded", () => {
             } else if (subject === 'Mechanics') {
                 notesLink = 'https://drive.google.com/file/d/1KkYDTt3c4IQ9wTYd4hibxT9OCMxC5MG6/view';
             } else if (subject === 'Mathematics') {
-                notesLink = '#'; // No link available for Mathematics
+                notesLink = 'https://drive.google.com/file/d/1Q6-BCoNONwUJsVdoXRSwmPbdB1bsKM_K/view'; // No link available for Mathematics
             }
             else if (subject === 'AIML & Fashion Design') {
-                notesLink = '#';
+                notesLink = 'https://drive.google.com/file/d/1Qtj_erzxVzu9s7CLfdn98adYgNWjRR2a/view';
             }
             else if (subject === 'EVS') {
-                notesLink = '#';
+                notesLink = 'https://drive.google.com/file/d/1QD1HKgLRpSmCMkADySSHimAFZaLXsLro/view';
             }
         }
 
@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 notesLink = 'https://drive.google.com/file/d/1KbHYARKl-1781wYNSruG4YgQElkUHO57/view';
             }
             else if (subject === 'Environmental Science') {
-                notesLink = '#';
+                notesLink = 'https://drive.google.com/file/d/1QD1HKgLRpSmCMkADySSHimAFZaLXsLro/view';
             }
             else if (subject === 'Electrical') {
                 notesLink = 'https://drive.google.com/file/d/1KTOHy10DkEBfZ_t15sIoMFPrg-mZgwG4/view';
@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 notesLink = 'https://drive.google.com/file/d/1KkYDTt3c4IQ9wTYd4hibxT9OCMxC5MG6/view';
             }
             else if (subject === 'Mathematics') {
-                notesLink = '#';
+                notesLink = 'https://drive.google.com/file/d/1Q6-BCoNONwUJsVdoXRSwmPbdB1bsKM_K/view';
             }
         }
 
@@ -133,13 +133,13 @@ document.addEventListener("DOMContentLoaded", () => {
             } else if (subject === 'Chemistry') {
                 notesLink = 'https://drive.google.com/file/d/1MFj1WPVV8fOU2EiifbfeqE-hEY068qEF/view?usp=drivesdk';
             } else if (subject === 'Professional Communication') {
-                notesLink = '#';
+                notesLink = alert('not available..');
             } else if (subject === 'Electronics') {
-                notesLink = '#';
+                notesLink = 'https://drive.google.com/file/d/1Q9ntcElqynJJXsAUTW_1clBvqle4AnJ2/view';
             } else if (subject === 'Manufacturing') {
                 notesLink = 'https://drive.google.com/file/d/1N78_A6EsCzdD0a2uzmHwvQVcSRF-PC_3/view';
             } else if (subject === 'Mathematics') {
-                notesLink = '#';
+                notesLink = 'https://drive.google.com/file/d/1Q6-BCoNONwUJsVdoXRSwmPbdB1bsKM_K/view';
             }
         }
 
@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", () => {
             } else if (subject === 'AIML & Fashion Design') {
                 pyqsLink = 'https://drive.google.com/file/d/1M2TKXZhYqFtIESl-EivoFDTTkXCEAqb7/view';
             } else if (subject === 'EVS') {
-                pyqsLink = '#';  // No link for EVS
+                pyqsLink = 'https://drive.google.com/file/d/1Pk76yeVnxQkIvgBzJzHXtC1N1FoFL38Z/view';  // No link for EVS
             }
         }
 
@@ -178,13 +178,13 @@ document.addEventListener("DOMContentLoaded", () => {
             } else if (subject === 'Electrical') {
                 pyqsLink = 'https://drive.google.com/file/d/1LPz-pz4WkRuOjgKzdzM5gqE2xq2AvhQz/view';
             } else if (subject === 'Design Thinking') {
-                pyqsLink = '#';  // No link for Design Thinking
+                pyqsLink = alert('no Pyqs of design thinking for now..');  // No link for Design Thinking
             } else if (subject === 'Mathematics') {
                 pyqsLink = 'https://drive.google.com/file/d/1Lz3u3YvOQE06nIMfm27ZW0gr9GMqGfSm/view';
             } else if (subject === 'Physics') {
                 pyqsLink = 'https://drive.google.com/file/d/1LwIeOqMDUG6qgT1CAkWG0_2nX6lTDtTX/view';
             } else if (subject === 'Environmental Science') {
-                pyqsLink = '#';  // No link for Environmental Science
+                pyqsLink = 'https://drive.google.com/file/d/1Pk76yeVnxQkIvgBzJzHXtC1N1FoFL38Z/view';  // No link for Environmental Science
             }
         }
 
@@ -199,7 +199,7 @@ document.addEventListener("DOMContentLoaded", () => {
             } else if (subject === 'Mathematics') {
                 pyqsLink = 'https://drive.google.com/file/d/1Lz3u3YvOQE06nIMfm27ZW0gr9GMqGfSm/view';
             } else if (subject === 'Electronics') {
-                pyqsLink = '#';  // No link for Electronics
+                pyqsLink = 'https://drive.google.com/file/d/1PhACCMNERiliJN54cFT4_1s6XleVRtAz/view';  // No link for Electronics
             } else if (subject === 'Professional Communication') {
                 pyqsLink = 'https://drive.google.com/file/d/1MWI66g_3hF22GWJFzlq8kz0YUsDyprSm/view';
             }
